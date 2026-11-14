@@ -21,6 +21,7 @@
 
 ## What is this?
 
+Terminal Server Client or
 RDP Bitmap Cache files (`bcache*.bmc`, `cache####.bin`) are artifacts left behind whenever a user connects to a remote desktop. Windows caches tiles of the remote screen to reduce bandwidth — meaning those tiles can contain screenshots of credentials, sensitive documents, remote IPs, and lateral movement activity, even after the RDP session has ended.
 
 This toolkit gives you two PowerShell scripts designed for **live incident response**:
