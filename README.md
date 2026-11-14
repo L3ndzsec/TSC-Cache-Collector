@@ -55,7 +55,6 @@ Before an incident, upload both scripts once to your tenant's Live Response libr
 1. Open Microsoft Defender XDR portal
 2. Settings → Endpoints → Live Response file library
 3. Upload: Collect-RDPBitmapCache.ps1
-4. Upload: Parse-RDPBitmapCache.ps1
 ```
 
 ---
