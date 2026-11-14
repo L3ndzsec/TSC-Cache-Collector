@@ -15,7 +15,7 @@
 ```
 
 > **RDP Bitmap Cache Collector** — Triage & evidence collection for IR / MDE Live Response  
-> Part of the **IRFlow Timeline** toolkit · by [L3ndzsec](https://github.com/L3ndzsec)
+> Part of the **IRFlow Timeline** toolkit
 
 ---
 
